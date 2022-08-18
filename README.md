@@ -6,11 +6,10 @@ I like coding chanllenges, optimising algorithms implementations and finding per
 
 ```javascript
 {
-    code: ["Javascript", "Typescript" "php"],
+    code: ["Javascript", "Typescript"],
     technologies: {
-        mobileApp: ["Ionic"],
         frontEnd: {
-            js: ["Angular", "Vue", "Nuxt", "React"],
+            js: ["React", "Angular", "Vue", "Nuxt", "React"],
             css: ["SCSS", "Material design", "bootstrap"],
             Misc:  ["Accessibility"]
         },
