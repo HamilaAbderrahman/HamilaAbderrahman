@@ -45,13 +45,23 @@ understand and maintain.
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
+**Agentic AI & Automation**
+
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Perplexity](https://img.shields.io/badge/-Perplexity-20808D?style=flat&logo=perplexity&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)
+
+
 ---
 
 ## 🔭 Current Focus
 - 🤖 Exploring AI potential & building products that matter
+- 🧠 Agentic AI — Claude Code, Perplexity, Ollama, n8n workflows
 - ⚙️ AI integration & automation in developer workflows
 - 🧩 Building accessible, reusable component libraries
-- 🚀 Exploring serverless and PWA architectures
+- 🚀 Serverless and PWA architectures
 
 ---
 
