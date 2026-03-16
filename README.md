@@ -4,8 +4,10 @@ I'm a frontend developer passionate about turning ideas into life through clean,
 maintainable, and accessible code. My motto?
 > *Don't reinvent the wheel, just realign it.*
 
-I build **micro tools** that help developers work smarter, and I always code with
-the next developer in mind — keeping things easy to understand and maintain.
+I build **micro tools** that help developers work smarter, and I'm currently
+exploring the potential of **AI** to create products that truly matter.
+I always code with the next developer in mind — keeping things easy to
+understand and maintain.
 
 ---
 
@@ -46,6 +48,7 @@ the next developer in mind — keeping things easy to understand and maintain.
 ---
 
 ## 🔭 Current Focus
+- 🤖 Exploring AI potential & building products that matter
 - ⚙️ AI integration & automation in developer workflows
 - 🧩 Building accessible, reusable component libraries
 - 🚀 Exploring serverless and PWA architectures
@@ -57,3 +60,4 @@ the next developer in mind — keeping things easy to understand and maintain.
 - 🧹 **Clean code** — readable, maintainable, and scalable
 - ⚡ **Performance** — optimized algorithms and efficient solutions
 - 🤝 **DX (Developer Experience)** — tools and docs that make life easier
+- 🌍 **Impact** — shipping things that solve real problems for real people
